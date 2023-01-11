@@ -1,0 +1,12 @@
+variable A : entier ;
+debut ;
+lire ( A ) ;
+ecrire ( A ) ;
+lire ( B ) ;
+si ( a > 20 ) alors
+	A := 40 ;
+sinon
+	a := 24 ;
+finsi ;
+ecrire ( a ) ;
+fin .

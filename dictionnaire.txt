@@ -1,0 +1,14 @@
+debut
+fin
+declaration
+variable
+entier
+reel
+caractere
+si
+alors
+sinon
+finsi
+lire
+ecrire
+( << >> ) < > == != : := ; .
